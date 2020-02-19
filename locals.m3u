@@ -3,7 +3,7 @@
 http://null
 #EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
-#EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.jpg" group-title="Local",4.2 KGCW
+#EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.png" group-title="Local",4.2 KGCW
 http://192.168.1.137:5004/auto/v4.2
 #EXTINF:0 tvg-id="I4.3.100636.zap2it.com" tvg-name="4.3 WHBFDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.3.jpg" group-title="Local",4.3 Grit
 http://192.168.1.137:5004/auto/v4.3
@@ -15,7 +15,7 @@ http://192.168.1.137:5004/auto/v6.1
 http://192.168.1.137:5004/auto/v6.2
 #EXTINF:0 tvg-id="I6.3.82869.zap2it.com" tvg-name="6.3 KWQCDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.3.png" group-title="Local",6.3 Cozi-TV
 http://192.168.1.137:5004/auto/v6.3
-#EXTINF:0 tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4 KWQCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.4.png" group-title="Local",6.4 H&I TV
+#EXTINF:0 tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4 KWQCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.4.jpg" group-title="Local",6.4 H&I TV
 http://192.168.1.137:5004/auto/v6.4
 #EXTINF:0 tvg-id="I6.5.110655.zap2it.com" tvg-name="6.5 KWQCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.5.png" group-title="Local",6.5 StartTV
 http://192.168.1.137:5004/auto/v6.5
@@ -27,7 +27,7 @@ http://192.168.1.137:5004/auto/v8.2
 http://192.168.1.137:5004/auto/v8.3
 #EXTINF:0 tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4 WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.png" group-title="Local",8.4 Justice
 http://192.168.1.137:5004/auto/v8.4
-#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg group-title="Local",18.1 KLJB (FOX)
+#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18.1 KLJB (FOX)
 http://192.168.1.137:5004/auto/v18.1
 #EXTINF:0 tvg-id="I18.2.42919.zap2it.com" tvg-name="18.2 KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.2.png" group-title="Local",18.2 ME TV
 http://192.168.1.137:5004/auto/v18.2
@@ -47,7 +47,7 @@ http://192.168.1.137:5004/auto/v26.4
 http://192.168.1.137:5004/auto/v36.1
 #EXTINF:0 tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2 KQINDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.2.png" group-title="Local",36.2 PBS Kids
 http://192.168.1.137:5004/auto/v36.2
-#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3KQINDT3.png" group-title="Local",36.3 WORLD
+#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3_KQINDT3.png" group-title="Local",36.3 WORLD
 http://192.168.1.137:5004/auto/v36.3
 #EXTINF:0 tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4 KQINDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.4.jpg" group-title="Local",36.4 Create
 http://192.168.1.137:5004/auto/v36.4
