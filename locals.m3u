@@ -66,7 +66,7 @@ http://wxradio.dyndns.org:8000/wxj73
 
 #EXTINF:-1 radio="true" tvg-name="97X WXLP (Radio)" tvg-logo="http://db.radioline.fr/pictures/radio_83f06eb5488c52fbc9d2a4f7d2e647d0/logo200.jpg?size=200" group-title="Radio",97X WXLP (Radio)
 
-#EXTINF:-1 radio="true" tvg-name="101.3 Kiss FM (Radio)" tvg-logo="data:image/png;base64,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" group-title="Radio",101.3 Kiss FM KUUL (Radio)
+#EXTINF:-1 radio="true" tvg-name="101.3 Kiss FM (Radio)" tvg-logo="" group-title="Radio",101.3 Kiss FM KUUL (Radio)
 
 #EXTINF:-1 radio="true" tvg-name="103-7 WLLR (Radio)" tvg-logo="https://i.iheart.com/v3/re/assets/images/2893.png?ops=fit(240%2C240)" group-title="Radio",103-7 WLLR (Radio)
 
@@ -85,8 +85,8 @@ http://wxradio.dyndns.org:8000/wxj73
 #EXTINF:-1 radio="true" tvg-name="Pearl Jam" tvg-logo="http://static.radio.net/images/broadcasts/43/b2/11085/1/c300.png" group-title="Radio",Pearl Jam Radio
 
 #EXTINF:-1 radio="true" tvg-name="Rock Nation" tvg-logo="https://i.iheart.com/v3/re/new_assets/cff882d8-3b36-42ab-b35a-4ad6bc795729?ops=fit(240%2C240)%2Cformat" group-title="Radio",Rock Nation Radio
-
-#EXTINF:-1 tradio="true" vg-name="UK Heart" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuZOdTSno_omVD8QQ3GsqomZ1fIT9UcX-Ol5D8NYJWl4AQkAlv" group-title="Radio", Radio
+https://n18a-e2.revma.ihrhls.com/zc4443/24_6lvmwznqno8w02/main/158467199.aac
+#EXTINF:-1 radio="true" vg-name="UK Heart" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuZOdTSno_omVD8QQ3GsqomZ1fIT9UcX-Ol5D8NYJWl4AQkAlv" group-title="Radio", Radio
 http://212.159.23.3:9981/stream/channelid/1999473717
 
 #EXTINF:-1 radio="true" tvg-name="Absolute Classic Rock" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="Radio",Absolute (Classic Rock) UK Radio
@@ -94,3 +94,33 @@ http://212.159.23.3:9981/stream/channelid/1097362855
 
 #EXTINF:-1 radio="true" tvg-name="Y2K" tvg-logo="http://radio.securenetsystems.net/file_radio/stations_large/DASH19/v5/album-art-default.png" group-title="Radio",DASH - Y2k Radio
 http://ice55.securenetsystems.net/DASH19?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="70s" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/highlights/2419/logos/48bb22cd-0970-49d2-8653-136301faef8e.png" group-title="Radio",DASH - 70's Radio
+http://ice55.securenetsystems.net/DASH26?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="80s" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/31/logos/957e6bf2-7337-47d9-86dd-144423eb18e5.png" group-title="Radio",DASH - 80's Radio
+http://ice55.securenetsystems.net/DASH7?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="90s" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/90s.jpg" group-title="Radio",DASH - 90's Radio
+http://ice55.securenetsystems.net/DASH1?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="Alt X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXALT/dash_x_alt_nowplaying_1080.jpg" group-title="Radio",DASH - Alt X Radio
+http://ice55.securenetsystems.net/DASH12?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="church of rock" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/41/logos/23045a34-c70f-49b5-b316-1b3a310461f3.png" group-title="Radio",DASH - Church of Rock Radio
+http://ice55.securenetsystems.net/DASH26?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="Indie" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/DashIndie.jpg" group-title="Radio",DASH - Indie Radio
+http://ice55.securenetsystems.net/DASH32?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="Grunge" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/164/logos/0e64637e-7b29-477e-883b-ae7408d275ee.png" group-title="Radio",DASH - Grunge Radio
+http://ice55.securenetsystems.net/DASH61?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="Monsters of Rock" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/MONSTERSOFROCK/mor_nowplaying_1080.jpg" group-title="Radio",DASH - Monsters of Rock Radio
+http://ice55.securenetsystems.net/DASH14?cb=1582223223
+
+#EXTINF:-1 radio="true" tvg-name="The Strip" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/TheStrip.jpg" group-title="Radio",DASH - The Strip Radio
+http://ice55.securenetsystems.net/DASH24?cb=1582223223
+
+#EXTINF:-1 radio="true" ,RadioParadise.com/rock-flac
+http://stream.radioparadise.com/rock-flac
