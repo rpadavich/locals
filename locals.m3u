@@ -3,7 +3,7 @@
 http://null
 #EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
-#EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.jpg" group-title="Local",4.2 KGCW
+#EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.png" group-title="Local",4.2 KGCW
 http://192.168.1.137:5004/auto/v4.2
 #EXTINF:0 tvg-id="I4.3.100636.zap2it.com" tvg-name="4.3 WHBFDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.3.jpg" group-title="Local",4.3 Grit
 http://192.168.1.137:5004/auto/v4.3
@@ -15,7 +15,7 @@ http://192.168.1.137:5004/auto/v6.1
 http://192.168.1.137:5004/auto/v6.2
 #EXTINF:0 tvg-id="I6.3.82869.zap2it.com" tvg-name="6.3 KWQCDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.3.png" group-title="Local",6.3 Cozi-TV
 http://192.168.1.137:5004/auto/v6.3
-#EXTINF:0 tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4 KWQCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.4.png" group-title="Local",6.4 H&I TV
+#EXTINF:0 tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4 KWQCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.4.jpg" group-title="Local",6.4 H&I TV
 http://192.168.1.137:5004/auto/v6.4
 #EXTINF:0 tvg-id="I6.5.110655.zap2it.com" tvg-name="6.5 KWQCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.5.png" group-title="Local",6.5 StartTV
 http://192.168.1.137:5004/auto/v6.5
@@ -27,7 +27,7 @@ http://192.168.1.137:5004/auto/v8.2
 http://192.168.1.137:5004/auto/v8.3
 #EXTINF:0 tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4 WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.png" group-title="Local",8.4 Justice
 http://192.168.1.137:5004/auto/v8.4
-#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg group-title="Local",18.1 KLJB (FOX)
+#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18.1 KLJB (FOX)
 http://192.168.1.137:5004/auto/v18.1
 #EXTINF:0 tvg-id="I18.2.42919.zap2it.com" tvg-name="18.2 KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.2.png" group-title="Local",18.2 ME TV
 http://192.168.1.137:5004/auto/v18.2
@@ -47,7 +47,7 @@ http://192.168.1.137:5004/auto/v26.4
 http://192.168.1.137:5004/auto/v36.1
 #EXTINF:0 tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2 KQINDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.2.png" group-title="Local",36.2 PBS Kids
 http://192.168.1.137:5004/auto/v36.2
-#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3_2.png" group-title="Local",36.3 WORLD
+#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3 KQINDT3.png" group-title="Local",36.3 WORLD
 http://192.168.1.137:5004/auto/v36.3
 #EXTINF:0 tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4 KQINDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.4.jpg" group-title="Local",36.4 Create
 http://192.168.1.137:5004/auto/v36.4
@@ -71,7 +71,7 @@ http://wvik.streamguys1.com/live.mp3
 http://54.235.62.118/townsquare-kjocfmaac-ibc3
 #EXTINF:-1 radio="true" tvg-name="97X WXLP (Radio)" tvg-logo="http://db.radioline.fr/pictures/radio_83f06eb5488c52fbc9d2a4f7d2e647d0/logo200.jpg?size=200" group-title="Radio",97X WXLP (Radio)
 #EXTVLCOPT:network-caching=1000
-http://54.235.62.118/townsquare-wxlpfmaac-ibc3?session-id=76e853efe9f37f11ad8104284faff03b-626c706b617031656f72313439706e30&source=v6player&sbmd=1&user-id=76e853efe9f37f11ad8104284faff03b
+http://54.235.62.118/townsquare-wxlpfmaac-ibc3
 #EXTINF:-1 radio="true" tvg-name="101.3 Kiss FM (Radio)" tvg-logo="" group-title="Radio",101.3 Kiss FM KUUL (Radio)
 #EXTVLCOPT:network-caching=1000
 https://ample.revma.ihrhls.com/zc3662/55_2do21lpr1j2602/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=1582228333869&clientType=web&profileid=1325407182&host=webapp.US&campid=header&pname=1047&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1582353405751&aw_0_1st.skey=1582353405&devicename=web-desktop&playedFrom=60&age=null&cid=index.html&territory=US&stationid=3662
