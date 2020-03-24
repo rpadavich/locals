@@ -128,16 +128,18 @@ http://ice55.securenetsystems.net/DASH61?cb=1582223223
 http://ice55.securenetsystems.net/DASH14?cb=1582223223
 #EXTINF:-1 radio="true" tvg-name="The Strip" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/TheStrip.jpg" group-title="Radio",DASH - The Strip Radio
 http://ice55.securenetsystems.net/DASH24?cb=1582223223
-#EXTINF:-1 radio="true" ,RadioParadise.com/rock-flac
+#EXTINF:-1 radio="true" tvg-name="RadioParadise" tvg-logo="" group-title="Radio",RadioParadise.com/rock-flac
 http://stream.radioparadise.com/rock-flac
 #EXTINF:-1 radio="true" ,Absolute Classic Rock" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="Radio",Absolute (Classic Rock) UK Radio
 http://212.159.23.3:9981/stream/channelid/1097362855
-#EXTINF:-1,Absolute Radio
-http://212.159.23.3:9981/stream/channelid/1097362855
-#EXTINF:-1,Capital
+#EXTINF:-1 radio="true" , Capital UK" tvg-logo="" group-title="Radio",Capital (Classic Rock) UK Radio
 http://212.159.23.3:9981/stream/channelid/1341210659
-#EXTINF:-1,Heart
+#EXTINF:-1 radio="true" ,Heart UK" tvg-logo="" group-title="Radio",Heart UK Radio
 http://212.159.23.3:9981/stream/channelid/1999473717
+#EXTINF:-1 radio="true" ,Fox News (Radio)" tvg-logo="" group-title="Radio",Fox News (Radio)
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 radio="true" ,WGN 720 Radio" tvg-logo="" group-title="Radio",WGN 720 Radio
+https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8
 
 #EXTINF:-1 group-title="Entertainment",* Entertainment *
 http://null
@@ -213,7 +215,7 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 group-title="Music",* Music *
 http://null
 #EXTINF:-1,California Music Channel
-#EXTINF:-1,Calle 13 SDhttp://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:-1,Music Video
@@ -250,21 +252,21 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Music",Remember the 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1,Auto Play TV
+#EXTINF:-1 tvg-logo="" group-title="Music",Auto Play TV
 https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
-#EXTINF:-1,Black Artist
+#EXTINF:-1 tvg-logo="" group-title="Music",Black Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
-#EXTINF:-1,Bluegrass
-https://nrpus.bozztv.com/36bay2/gusa-bluegrassmusic4u/index.m3u8
-#EXTINF:-1,Blues TN
+#EXTINF:-1 tvg-logo="" group-title="Music",Bluegrass
+https://nrpus.bozztv.com/36bay2/gusa-bluegrassmusic4u/index.
+#EXTINF:-1 tvg-logo="" group-title="Music",Blues TN
 https://nrpus.bozztv.com/36bay2/gusa-btn/index.m3u8
-#EXTINF:-1,Country Music
+#EXTINF:-1 tvg-logo="" group-title="Music",Country Music
 https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
-#EXTINF:-1,Hot Rock TV (New!)
+#EXTINF:-1 tvg-logo="" group-title="Music",Hot Rock TV
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
-#EXTINF:-1,Planet Music
+#EXTINF:-1 tvg-logo="" group-title="Music",Planet Music
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
-#EXTINF:-1,Street Music
+#EXTINF:-1 tvg-logo="" group-title="Music",Street Music
 https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
 
 #EXTINF:-1 group-title="News",* News *
@@ -273,7 +275,7 @@ http://null
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,CBN
+#EXTINF:-1 group-title="News",CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -291,7 +293,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1 group-title="News",CSPAN3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:-1,DW English
+#EXTINF:-1 group-title="News",DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="60295" tvg-name="60295" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="News",Fox News Channel
 http://channelpear.com/watch/?id=3009&u=346564&k=NkU4WldBb1pYQlBpSmFDZ0xWa1R6NUt1czdQRHZ5U25FZWtYVk5wcDd6TT0%3D&a=1|User-Agent=VLC
@@ -321,7 +323,7 @@ http://rt-news.secure.footprint.net:80/1103.m3u8?streamType=live
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
 #EXTINF:-1 tvg-logo="http://ztalkradio.com/wp-content/uploads/2016/06/alex-jones.jpg" group-title="News",Alex Jones Show
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
-#EXTINF:-1,Blaze TV
+#EXTINF:-1 group-title="News",Blaze TV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 group-title="News",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -329,11 +331,11 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="72534" tvg-name="72534" tvg-logo="72534" group-title="News",WeatherNation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-#EXTINF:-1,Local Radar
+#EXTINF:-1 group-title="News",Local Radar
 https://radblast.wunderground.com/cgi-bin/radar/WUNIDS_composite?&centerlat=41.5050&centerlon=-92.000&radius=125&type=N0R&frame=0&num=6&delay=60&width=1280&height=720&newmaps=1&r=1210555939&smooth=1&rainsnow=1&lat=41.8780&lon=-93.3977&severe=1&showstorms=15&brand=mobile&showids=0&noclutter=1
 #EXTINF:-1 tvg-id="91096" tvg-name="91096" tvg-logo="91096.png" group-title="News",WGN America
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1,News DW
+#EXTINF:-1 group-title="News",News DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 group-title="Sports", * Sports *
@@ -360,31 +362,31 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-0" ,Olympic Channel (HD)
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-#EXTINF:-1,HBCU Game Day (New!)
+#EXTINF:-1 group-title="Sports",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
-#EXTINF:-1,TVS Classic Sports (New!)
+#EXTINF:-1 group-title="Sports",TVS Classic Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1,TVS Flashback (New!)
+#EXTINF:-1 group-title="Sports",TVS Flashback (New!)
 https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1,TVS Frontier (New!)
+#EXTINF:-1 group-title="Sports",TVS Frontier
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1,TVS High Tops (New!)
+#EXTINF:-1 group-title="Sports",TVS High Tops
 https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1,TVS Main Street (New!)
+#EXTINF:-1 group-title="Sports",TVS Main Street
 https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1,TVS Nostalgia (New!)
+#EXTINF:-1 group-title="Sports",TVS Nostalgia
 https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1,TVS Sports (New!)
+#EXTINF:-1 group-title="Sports",TVS Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1,TVS Tavern (New!)
+#EXTINF:-1 group-title="Sports",TVS Tavern (New!)
 https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1,TVS Turbo (New!)
+#EXTINF:-1 group-title="Sports",TVS Turbo
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1,TVS Women Sports (New!)
+#EXTINF:-1 group-title="Sports",TVS Women Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel Plus (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="USA",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1 group-title="Sort", * Yet To be Sorted *
@@ -586,60 +588,43 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Christmas Collection",LIVE Pluto TV Fireplace
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-6.mp4?raw=true
 
-#EXTINF:0 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/HBO-2-Logo.jpg" group-title="Entertainment",ABC
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/HBO-2-Logo.jpg" group-title="Entertainment",ABC
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
-
-CBS
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CBS
 http://87.120.36.62:8080/hls/streama117999/index.m3u8
-
-FOX
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
 http://87.120.36.62:8080/hls/streama118000/index.m3u8
-
-NBC
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",NBC
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
-
-The CW
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",The CW
 http://87.120.36.62:8080/hls/streama118001/index.m3u8
-
-RT America
+#EXTINF:-1 tvg-logo="" group-title="News",RT America
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-
-CBS Sports HQ
+#EXTINF:-1 tvg-logo="" group-title="News",CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-
-NBC Golf
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBC Golf
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
-
-Mobcrush
+#EXTINF:-1 tvg-logo="" group-title="Kids",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-
-Rooster Teeth
+#EXTINF:-1 tvg-logo="" group-title="Kids",Rooster Teeth
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
-
-Outdoor Cooking
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Outdoor Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-
-Design Network
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Design Network
 https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc043d28-c655-4bf9-a8ef-604d2906c7aa/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=323
-
-This Old House 24x7
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",This Old House 24x7
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
-
-Lets Go To The Movies
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Lets Go To The Movies
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
-
-The Shopping Channel
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-Radio WGN 720 Radio
-https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8
-
 #EXTINF:-1 group-title="News" tvg-chno="117",WGN News Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-name="91096" group-title="News" tvg-id="91096" tvg-chno="118" tvg-logo="91096.png",WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-
-Fox News Channel
+#EXTINF:-1 tvg-logo="" group-title="News",Fox News Channel
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
-Fox News (Radio)
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8?sd=10&rebase=on
+
+
+
+
