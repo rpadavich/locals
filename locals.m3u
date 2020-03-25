@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",Antenna TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",********
 http://null
 #EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
@@ -25,7 +25,7 @@ http://192.168.1.137:5004/auto/v8.1
 http://192.168.1.137:5004/auto/v8.2
 #EXTINF:0 tvg-id="I8.3.53049.zap2it.com" tvg-name="8.3 WQADDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.3.png" group-title="Local",8.3 CW
 http://192.168.1.137:5004/auto/v8.3
-#EXTINF:0 tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4 WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.png" group-title="Local",8.4 Justice
+#EXTINF:0 tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4 WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.jpg" group-title="Local",8.4 Justice
 http://192.168.1.137:5004/auto/v8.4
 #EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18.1 KLJB (FOX)
 http://192.168.1.137:5004/auto/v18.1
