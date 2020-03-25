@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/blank.jpg" group-title="Local",Antenna TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",Antenna TV
 http://null
 #EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
@@ -47,7 +47,7 @@ http://192.168.1.137:5004/auto/v26.4
 http://192.168.1.137:5004/auto/v36.1
 #EXTINF:0 tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2 KQINDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.2.png" group-title="Local",36.2 PBS Kids
 http://192.168.1.137:5004/auto/v36.2
-#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3 KQINDT3.png" group-title="Local",36.3 WORLD
+#EXTINF:0 tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3 KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3.png" group-title="Local",36.3 WORLD
 http://192.168.1.137:5004/auto/v36.3
 #EXTINF:0 tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4 KQINDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.4.jpg" group-title="Local",36.4 Create
 http://192.168.1.137:5004/auto/v36.4
