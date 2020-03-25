@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Local" tvg-chno="1",* Locals *
+#EXTINF:-1 tvh-chnum="1" tvg-name="" tvg-id="" tvg-logo="https://github.com/rpadavich/logo/blob/master/logo/blank.jpg" group-title="Local",Antenna TV
 http://null
-#EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local" tvg-chno="4.1",4.1 WHBF (CBS)
+#EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
 #EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.png" group-title="Local",4.2 KGCW
 http://192.168.1.137:5004/auto/v4.2
@@ -143,7 +143,7 @@ https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8
 
 #EXTINF:-1 group-title="Entertainment",* Entertainment *
 http://null
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QYYemVC.png" group-title="Entertainment",Antenna TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Entertainment",Antenna TV
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 group-title="Entertainment",BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
@@ -624,6 +624,46 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="News",Fox News Channel
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
+
+#EXTINF:-1 tvh-chnum="205" tvg-id="I285.65342.schedulesdirect.org" tvg-name="Fox News" tvg-logo="https://imgur.com/cFvRXD6.png" group-title="News",Fox News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvh-chnum="1" tvg-name="A&E" tvg-id="I265.10035.schedulesdirect.org" tvg-logo="" group-title="IPTV",A&E
+#EXTINF:-1 tvh-chnum="2" tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
+#EXTINF:-1 tvh-chnum="3" tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
+#EXTINF:-1 tvh-chnum="5" tvg-name="American Heroes Channel HD" tvg-id="AmericanHeroesChannel.us" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20american%20heroes%20channel%20hd.png" group-title="United Sta$
+#EXTINF:-1 tvh-chnum="6" tvg-name="Animal Planet HD" tvg-id="I282.57394.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20animal%20planet%20hd.png" group-title="United States",Animal Plan$
+#EXTINF:-1 tvh-chnum="101" tvg-name="At The Races" tvg-id="I415.30505.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/at%20the%20races.png" group-title="Sports",At The Races
+#EXTINF:-1 tvh-chnum="201" tvg-name="BBC America HD" tvg-id="I264.64492.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bbc%20america%20hd.png" group-title="United States",BBC America HD
+#EXTINF:-1 tvh-chnum="202" tvg-name="BET HD" tvg-id="I329.63236.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bet%20hd.png" group-title="United States",BET HD
+#EXTINF:-1 tvh-chnum="301" tvg-name="BT Sports 1" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201.png" group-title="Sports",BT Sports 1
+#EXTINF:-1 tvh-chnum="302" tvg-name="BT Sports 1 HD" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201%20hd.png" group-title="Sports",BT Sports 1 HD
+#EXTINF:-1 tvh-chnum="303" tvg-name="BT Sports 2" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202.png" group-title="Sports",BT Sports 2
+#EXTINF:-1 tvh-chnum="304" tvg-name="BT Sports 2 HD" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202%20hd.png" group-title="Sports",BT Sports 2 HD
+#EXTINF:-1 tvh-chnum="305" tvg-name="BT Sports 3" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203.png" group-title="Sports",BT Sports 3
+#EXTINF:-1 tvh-chnum="306" tvg-name="BT Sports 3 HD" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203%20hd.png" group-title="Sports",BT Sports 3 HD
+#EXTINF:-1 tvh-chnum="307" tvg-name="BT Sports ESPN" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn.png" group-title="Sports",BT Sports ESPN
+#EXTINF:-1 tvh-chnum="308" tvg-name="BT Sports ESPN HD" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn%20hd.png" group-title="Sports",BT Sports ESPN HD
+#EXTINF:-1 tvh-chnum="309" tvg-name="BeIN Sports 11 HD" tvg-id="beINSports11.qa" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%2011%20english.png" group-title="Sports",BeIN Sports 11 HD
+#EXTINF:-1 tvh-chnum="310" tvg-name="BeIN Sports 12 HD" tvg-id="beINSports12.qa" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%2012%20english.png" group-title="Sports",BeIN Sports 12 HD
+#EXTINF:-1 tvh-chnum="311" tvg-name="BeIN Sports Espanol HD" tvg-id="I467.76943.schedulesdirect.org" tvg-logo="https://imgur.com/JwkadXy.png" group-title="Sports",BeIN Sports Espanol HD
+#EXTINF:-1 tvh-chnum="312" tvg-name="BeIN Sports USA HD" tvg-id="I620.76950.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%20usa.png" group-title="Sports",BeIN Sports USA HD
+#EXTINF:-1 tvh-chnum="313" tvg-name="Big Ten Network HD" tvg-id="I610.58321.schedulesdirect.org" tvg-logo="https://imgur.com/dXGOaNQ.png" group-title="Sports",Big Ten Network HD
+#EXTINF:-1 tvh-chnum="401" tvg-name="Bloomberg HD" tvg-id="I353.71799.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bloomberg%20hd.png" group-title="United States",Bloomberg HD
+#EXTINF:-1 tvh-chnum="501" tvg-name="Boxnation" tvg-id="I437.73823.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/noxnation.png" group-title="Sports",Boxnation
+#EXTINF:-1 tvh-chnum="601" tvg-name="Bravo HD" tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bravo%20hd.png" group-title="United States",Bravo HD
+#EXTINF:-1 tvh-chnum="602" tvg-name="CBN HD" tvg-id="I267.49128.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20cbn%20hd.png" group-title="United States",CBN HD
+
+
+
+
+
+
+
+
 
 
 
