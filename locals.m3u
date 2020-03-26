@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",_Antenna TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",[I][B][COLOR Light Yellow]— Antenna —[/COLOR][/B][/I]
 http://null
 #EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
 http://192.168.1.137:5004/auto/v4.1
