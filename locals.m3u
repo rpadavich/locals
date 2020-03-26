@@ -54,14 +54,14 @@ http://192.168.1.137:5004/auto/v36.4
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/blank.jpg" group-title="Networks",[I][B][COLOR darkorange]— Networks —[/COLOR][/B][/I]
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.jpg" group-title="Entertainment",[COLOR darkgray]ABC [/COLOR]New York
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Networks",[I][B][COLOR darkorange]— Networks —[/COLOR][/B][/I]
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Entertainment",[COLOR darkgray]ABC [/COLOR]New York
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.png" group-title="Entertainment",[COLOR darkgray]CBS [/COLOR]New York
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Entertainment",[COLOR darkgray]CBS [/COLOR]New York
 http://87.120.36.62:8080/hls/streama117999/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Entertainment",[COLOR darkgray]NBC [/COLOR]New York
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.png" group-title="Entertainment",[COLOR darkgray]Fox [/COLOR]New York
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Entertainment",[COLOR darkgray]Fox [/COLOR]New York
 http://87.120.36.62:8080/hls/streama118000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
 http://radio.7chan.org:8000/CH7
