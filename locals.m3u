@@ -129,6 +129,9 @@ https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/doc.jpg" group-title="Document",[I][B][COLOR darkorange]— Documentory —[/COLOR][/B][/I]
+http://null
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UENnBZQ.jpg" group-title="Documentary",American Heroes Channel ([COLOR red][I][B]New  [/B][/I][/COLOR])
+http://channelpear.com/watch/?id=21672&u=346564&k=b1UydzEwcHVESllFa3hZdzVINnFLR1ZVaHBtdTZab2hRYytDdlYycmRhRT0%3D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public)
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media)
@@ -482,6 +485,7 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1,VSiN - Sports Betting
 https://playback.akamaized.net/streams/22774234_6897936_lsi78r2b2oazhe73rqu_1/media/22774234_6897936_lsi78r2b2oazhe73rqu_1@428000p.m3u8?dw=14400&ts=1581454800&hdnts=exp=1581628204~acl=/streams/22774234_6897936_lsi78r2b2oazhe73rqu_1/media*~hmac=e7640a31f20507313106c31f88b47f9d7f96ac88be2d77eac3a47d9e58c06350
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/blank.jpg" group-title="",[I][B][COLOR darkorange]— TO be Sorted —[/COLOR][/B][/I]
