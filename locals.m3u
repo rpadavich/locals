@@ -181,6 +181,20 @@ https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media)
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (Earth from ISS)
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public Alternate)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media Alternate)
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (ISS Alternate)
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 4 (ISS 480p Cam)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/kids.jpg" group-title="Kids",_Kids TV
 http://null
@@ -271,6 +285,24 @@ https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/news.jpg" group-title="News",_News & Weather
 http://null
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News & Weather",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now 24/7 Live
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",WGN News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="News",Fox News Channel
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News (Opt-1)
@@ -340,6 +372,10 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/sports.jpg" group-title="Sports",_Sports TV
 http://null
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ (Geo-USA)
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports Golf
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Sports",World Poker Tour
@@ -391,8 +427,6 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 #EXTINF:-1 group-title="Sort", * Yet To be Sorted *
 http://null
-
-
 #EXTINF:-1,BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
@@ -434,22 +468,6 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1 CARTOONS
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News & Weather",NBC News Now
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
-https://bozztv.com/36bay2/gin-newsnet/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ (Geo-USA)
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Special Interest",TWiT (Tech News)
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" group-title="Special Interest",Mobcrush (Video Games)
@@ -477,9 +495,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 4 (ISS 480p Cam)
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now 24/7 Live
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" group-title="Law + Justice",L&C | Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/live.m3u8
@@ -616,55 +631,55 @@ https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc04
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Lets Go To The Movies
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="News" tvg-chno="117",WGN News Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-name="91096" group-title="News" tvg-id="91096" tvg-chno="118" tvg-logo="91096.png",WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="News",Fox News Channel
-https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
 
-#EXTINF:-1 tvh-chnum="205" tvg-id="I285.65342.schedulesdirect.org" tvg-name="Fox News" tvg-logo="https://imgur.com/cFvRXD6.png" group-title="News",Fox News
-https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvh-chnum="1" tvg-name="A&E" tvg-id="I265.10035.schedulesdirect.org" tvg-logo="" group-title="IPTV",A&E
-#EXTINF:-1 tvh-chnum="2" tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
-#EXTINF:-1 tvh-chnum="3" tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
-#EXTINF:-1 tvh-chnum="5" tvg-name="American Heroes Channel HD" tvg-id="AmericanHeroesChannel.us" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20american%20heroes%20channel%20hd.png" group-title="United Sta$
-#EXTINF:-1 tvh-chnum="6" tvg-name="Animal Planet HD" tvg-id="I282.57394.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20animal%20planet%20hd.png" group-title="United States",Animal Plan$
-#EXTINF:-1 tvh-chnum="101" tvg-name="At The Races" tvg-id="I415.30505.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/at%20the%20races.png" group-title="Sports",At The Races
-#EXTINF:-1 tvh-chnum="201" tvg-name="BBC America HD" tvg-id="I264.64492.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bbc%20america%20hd.png" group-title="United States",BBC America HD
-#EXTINF:-1 tvh-chnum="202" tvg-name="BET HD" tvg-id="I329.63236.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bet%20hd.png" group-title="United States",BET HD
+#EXTINF:-1 tvh-chnum="701" tvg-name="A&E" tvg-id="I265.10035.schedulesdirect.org" tvg-logo="" group-title="IPTV",A&E
+http://null
+#EXTINF:-1 tvh-chnum="702" tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
+http://null
+#EXTINF:-1 tvh-chnum="703" tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
+http://null
+#EXTINF:-1 tvh-chnum="705" tvg-name="American Heroes Channel HD" tvg-id="AmericanHeroesChannel.us" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20american%20heroes%20channel%20hd.png" group-title="United Sta$
+http://null
+#EXTINF:-1 tvh-chnum="706" tvg-name="Animal Planet HD" tvg-id="I282.57394.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20animal%20planet%20hd.png" group-title="United States",Animal Plan$
+http://null
+#EXTINF:-1 tvh-chnum="801" tvg-name="At The Races" tvg-id="I415.30505.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/at%20the%20races.png" group-title="Sports",At The Races
+http://null
+#EXTINF:-1 tvh-chnum="802" tvg-name="BBC America HD" tvg-id="I264.64492.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bbc%20america%20hd.png" group-title="United States",BBC America HD
+http://null
+#EXTINF:-1 tvh-chnum="803" tvg-name="BET HD" tvg-id="I329.63236.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bet%20hd.png" group-title="United States",BET HD
+http://null
 #EXTINF:-1 tvh-chnum="301" tvg-name="BT Sports 1" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201.png" group-title="Sports",BT Sports 1
+http://null
 #EXTINF:-1 tvh-chnum="302" tvg-name="BT Sports 1 HD" tvg-id="I413.82447.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%201%20hd.png" group-title="Sports",BT Sports 1 HD
+http://null
 #EXTINF:-1 tvh-chnum="303" tvg-name="BT Sports 2" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202.png" group-title="Sports",BT Sports 2
+http://null
 #EXTINF:-1 tvh-chnum="304" tvg-name="BT Sports 2 HD" tvg-id="I414.82449.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%202%20hd.png" group-title="Sports",BT Sports 2 HD
+http://null
 #EXTINF:-1 tvh-chnum="305" tvg-name="BT Sports 3" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203.png" group-title="Sports",BT Sports 3
+http://null
 #EXTINF:-1 tvh-chnum="306" tvg-name="BT Sports 3 HD" tvg-id="I417.95771.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%203%20hd.png" group-title="Sports",BT Sports 3 HD
+http://null
 #EXTINF:-1 tvh-chnum="307" tvg-name="BT Sports ESPN" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn.png" group-title="Sports",BT Sports ESPN
+http://null
 #EXTINF:-1 tvh-chnum="308" tvg-name="BT Sports ESPN HD" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn%20hd.png" group-title="Sports",BT Sports ESPN HD
+http://null
 #EXTINF:-1 tvh-chnum="309" tvg-name="BeIN Sports 11 HD" tvg-id="beINSports11.qa" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%2011%20english.png" group-title="Sports",BeIN Sports 11 HD
+http://null
 #EXTINF:-1 tvh-chnum="310" tvg-name="BeIN Sports 12 HD" tvg-id="beINSports12.qa" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%2012%20english.png" group-title="Sports",BeIN Sports 12 HD
+http://null
 #EXTINF:-1 tvh-chnum="311" tvg-name="BeIN Sports Espanol HD" tvg-id="I467.76943.schedulesdirect.org" tvg-logo="https://imgur.com/JwkadXy.png" group-title="Sports",BeIN Sports Espanol HD
+http://null
 #EXTINF:-1 tvh-chnum="312" tvg-name="BeIN Sports USA HD" tvg-id="I620.76950.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bein%20sports%20usa.png" group-title="Sports",BeIN Sports USA HD
+http://null
 #EXTINF:-1 tvh-chnum="313" tvg-name="Big Ten Network HD" tvg-id="I610.58321.schedulesdirect.org" tvg-logo="https://imgur.com/dXGOaNQ.png" group-title="Sports",Big Ten Network HD
+http://null
 #EXTINF:-1 tvh-chnum="401" tvg-name="Bloomberg HD" tvg-id="I353.71799.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bloomberg%20hd.png" group-title="United States",Bloomberg HD
+http://null
 #EXTINF:-1 tvh-chnum="501" tvg-name="Boxnation" tvg-id="I437.73823.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/noxnation.png" group-title="Sports",Boxnation
+http://null
 #EXTINF:-1 tvh-chnum="601" tvg-name="Bravo HD" tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20bravo%20hd.png" group-title="United States",Bravo HD
+http://null
 #EXTINF:-1 tvh-chnum="602" tvg-name="CBN HD" tvg-id="I267.49128.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20cbn%20hd.png" group-title="United States",CBN HD
-
-
-
-
-
-
-
-
-
-
-
+http://null
 
