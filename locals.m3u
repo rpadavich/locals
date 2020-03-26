@@ -52,7 +52,7 @@ http://192.168.1.137:5004/auto/v36.3
 #EXTINF:0 tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4 KQINDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.4.jpg" group-title="Local",36.4 Create
 http://192.168.1.137:5004/auto/v36.4
 
-#EXTINF:-1 radio="true" group-title="Radio",* Radio *
+#EXTINF:-1 radio="true" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/radio.jpg" group-title="Radio",_Talk & Music
 http://radio1.link
 #EXTINF:-1 radio="true" tvg-id="Quad Cities NOAA Weather Radio" tvg-logo="https://forecast.weather.gov/newimages/medium/nwind_ovc.png" group-title="Radio",Quad Cities NOAA Weather
 #EXTVLCOPT:network-caching=1000
@@ -141,9 +141,7 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8?sd=10&rebas
 #EXTINF:-1 radio="true" ,WGN 720 Radio" tvg-logo="" group-title="Radio",WGN 720 Radio
 https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/iptv2.jpg" group-title="", National
-http://null
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/ent.jpg" group-title="Entertainment", Entertainment
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/ent.jpg" group-title="Entertainment",_Entertainment
 http://null
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Entertainment",Antenna TV
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
@@ -184,12 +182,12 @@ https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/kids.jpg" group-title="Kids", Kids TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/kids.jpg" group-title="Kids",_Kids TV
 http://null
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="Kids",128 PBS Kids
 https://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/movie.jpg" group-title="Movies", Movies
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/movie.jpg" group-title="Movies",_Movies
 http://null
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Movies",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
@@ -214,7 +212,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Movies",Stirr Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/music.jpg" group-title="Music", Music TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/music.jpg" group-title="Music",_Music Videos
 http://null
 #EXTINF:-1,California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
@@ -271,7 +269,7 @@ https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Street Music
 https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/news.jpg" group-title="News", News & Weather
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/news.jpg" group-title="News",_News & Weather
 http://null
 #EXTINF:-1 group-title="News",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
@@ -340,7 +338,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 #EXTINF:-1 group-title="News",News DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/sports.jpg" group-title="Sports", Sports TV
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/sports.jpg" group-title="Sports",_Sports TV
 http://null
 #EXTINF:-1 group-title="Sports",NBC Sports Golf
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/master.m3u8
