@@ -41,7 +41,7 @@ http://192.168.1.137:5004/auto/v26.1
 http://192.168.1.137:5004/auto/v26.2
 #EXTINF:0 tvg-id="I26.3.75300.zap2it.com" tvg-name="26.3 KGCWDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.3.png" group-title="Local",26.3 LAFF
 http://192.168.1.137:5004/auto/v26.3
-#EXTINF:0 tvg-id="I26.4.100679.zap2it.com" tvg-name="26.4 KGCWDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.4png" group-title="Local",26.4 BOUNCE
+#EXTINF:0 tvg-id="I26.4.100679.zap2it.com" tvg-name="26.4 KGCWDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.4.png" group-title="Local",26.4 BOUNCE
 http://192.168.1.137:5004/auto/v26.4
 #EXTINF:0 tvg-id="I36.1.60352.zap2it.com" tvg-name="36.1 KQINDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.1.png" group-title="Local",36.1 PBS
 http://192.168.1.137:5004/auto/v36.1
