@@ -1,0 +1,132 @@
+#EXTM3U
+#######################################################################################################
+# Title: radio.m3u
+# Description:
+# Author:
+# Copyright: 2019-2020
+# Creation Date: October 03 2019
+# Version: 0.9
+# Revision Date: March 10 2020
+#####################################################################
+# Dependencies   m3u can be found at... https://githubusercontent/rpadavich/m3u/master/
+#                related xml is at...   https://githubusercontent/rpadavich/xml/master/
+#                xml logo files are at ... https://githubusercontent/rpadavich/logo/master/logo
+########################################################################################################
+#  Instructions:  tvg-id=  corresponds to channel id in EPG xml
+#                 tvg-name=  corresponds to display name in EPG
+#                 tvg-logo=  logo filename and locationDesc
+#                 tvg shift=  hour shift EPG use with #EXTM3U for entire EPG #EXTINF for one channel
+#                 tvg-chno=  channel number in program
+#                 group-title=  name of collection of channels (Bouquet)
+#                 radio=  define radio channel
+#
+# Example:    #EXTINF:0 tvg-id="I6.1.43064.zap2it.com" tvg-name="6.1 KWQCDT" tvg-logo="https://raw.github.com/6.1.png" group-title="Local",6.1 KWQC (NBC)
+#             http://192.168.1.137:5004/auto/v6.1
+#
+#             #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",[I][B][COLOR darkorange]— Antenna —[/COLOR][/B][/I]
+#             http://stream.srg-ssr.ch/m/rsc_de/mp3_128     (this file is just a place holder in an m3l play music if pressed)
+#
+#             #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Fox News (Radio)
+#             https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8?sd=10&rebase=on
+#
+##################################################################################################################################################################################
+#  ADDITIONAL NOTES:   If a user finds a significant flaw or makes a significant improvement to this file, feel free to notify the original developers so that we may also
+#                     include your user improvement in the next release; users are not obligated to do this, but we would enjoy this courtesy tremendously.
+#
+##### channel info follows... #####################################################################################################################################################
+#
+##### purple color on EPG ###########################
+#
+#    Music Channels  -  Music, News, Weather and Talk.
+#
+#####################################################
+# #EXTINF:-1 radio="true" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/radio.jpg" group-title="Radio",[I][B][COLOR darkorange]— Music & Talk —[/COLOR][/B][/I]
+# http://radio1.link
+#EXTINF:-1 radio="true" tvg-id="Quad Cities NOAA Weather Radio" tvg-logo="https://forecast.weather.gov/newimages/medium/nwind_ovc.png" group-title="Radio",Quad Cities NOAA Weather
+#EXTVLCOPT:network-caching=1000
+http://wxradio.dyndns.org:8000/wxj73
+#EXTINF:-1 radio="true" ,WGN 720 Radio" tvg-logo="" group-title="Radio",WGN 720 Radio
+https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8
+#EXTINF:-1 radio="true" tvg-name="1420 WOC Talk (Radio)" tvg-logo="https://i.iheart.com/v3/re/assets/images/2889.png?ops=fit(240%2C240)" group-title="Radio",1420 WOC Talk (Radio)
+#EXTVLCOPT:network-caching=1000
+https://c5.prod.playlists.ihrhls.com/2889/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="88.5 FM (Radio)" tvg-logo="http://www.sau.edu/assets/images/logos/st-ambrose-primary.png" group-title="Radio",88.5 KALA (Radio)
+#EXTVLCOPT:network-caching=1000
+http://kala.streamguys1.com/live1
+#EXTINF:-1 radio="true" tvg-name="90.3 FM WVIK (Radio)" tvg-logo="https://www.wvik.org/sites/wvik/files/201508/logo_fid.png" group-title="Radio",90.3 FM WVIK NPR (Radio)
+#EXTVLCOPT:network-caching=1000
+http://wvik.streamguys1.com/live.mp3
+#EXTINF:-1 radio="true" tvg-name="93.5 KJOC-FM (Radio)" tvg-logo="https://townsquare.media/site/965/files/2019/08/logowhite.png" group-title="Radio",93.5 KJOC-FM (Radio)
+#EXTVLCOPT:network-caching=1000
+http://34.83.202.216/townsquare-kjocfmaac-ibc3?session-id=c30297168ffce3bb1f8aa6bc640ea395
+#EXTINF:-1 radio="true" tvg-name="97X WXLP (Radio)" tvg-logo="http://db.radioline.fr/pictures/radio_83f06eb5488c52fbc9d2a4f7d2e647d0/logo200.jpg?size=200" group-title="Radio",97X WXLP (Radio)
+#EXTVLCOPT:network-caching=1000
+http://34.83.202.216/townsquare-wxlpfmaac-ibc3?session-id=3c94d2018d0677c226ce08101512756c
+#EXTINF:-1 radio="true" tvg-name="101.3 Kiss FM (Radio)" tvg-logo="" group-title="Radio",101.3 Kiss FM KUUL (Radio)
+#EXTVLCOPT:network-caching=1000
+https://ample.revma.ihrhls.com/zc3662/55_2do21lpr1j2602/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=1582228333869&clientType=web&profileid=1325407182&host=webapp.US&campid=header&pname=1047&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1582353405751&aw_0_1st.skey=1582353405&devicename=web-desktop&playedFrom=60&age=null&cid=index.html&territory=US&stationid=3662
+#EXTINF:-1 radio="true" tvg-name="103-7 WLLR (Radio)" tvg-logo="https://i.iheart.com/v3/re/assets/images/2893.png?ops=fit(240%2C240)" group-title="Radio",103-7 WLLR (Radio)
+#EXTVLCOPT:network-caching=1000
+https://c5.prod.playlists.ihrhls.com/2893/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="104-5 ALT104 (Radio)" tvg-logo="https://i.iheart.com/v3/re/new_assets/8ebcbce9-c9ef-44f1-9a9c-13c87fb001a5?ops=fit(240%2C240)" group-title="Radio",104-5 ALT 104 (Radio)
+#EXTVLCOPT:network-caching=1000
+https://c5.prod.playlists.ihrhls.com/6959/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="Q106-5 (Radio)" tvg-logo="https://i.iheart.com/v3/re/assets/images/f766f15e-2579-4694-b2a2-8f3ea67560ef.png?ops=fit(240%2C240)" group-title="Radio",106-5 Q106 (Radio)
+#EXTVLCOPT:network-caching=1000
+https://c5.prod.playlists.ihrhls.com/3107/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="107.7 WQUD-FM (Radio)" tvg-logo="http://www.wqudfm.com/wp-content/uploads/cropped-WQUD-LOGO-107.7.png" group-title="Radio",107.7 WQUD-FM (Radio)
+#EXTVLCOPT:network-caching=1000
+http://ice64.securenetsystems.net/WQUD
+#EXTINF:-1 radio="true" tvg-name="181.fm - 90's Alternative" tvg-logo="http://static.radio.net/images/broadcasts/27/42/7591/c300.png" group-title="Radio",181.fm - 90's Alternative
+#EXTVLCOPT:network-caching=1000
+http://uplink.duplexfx.com:8052/
+#EXTINF:-1 radio="true" tvg-name="977_ALTERN.mp3" tvg-logo="http://static.radio.net/images/broadcasts/d9/3c/9903/2/c300.png" group-title="Radio",Alternative Rock - HitsRadio
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3
+#EXTINF:-1 radio="true" tvg-name="GotRadio (Alternative Rock)" tvg-logo="http://static.radio.net/images/broadcasts/e3/7d/7953/c300.png" group-title="Radio",GotRadio - Alternative Rock
+#EXTVLCOPT:network-caching=1000
+http://173.244.215.162:8200/;/;9346605865238484stream.nsv
+#EXTINF:-1 radio="true" tvg-name="Pearl Jam" tvg-logo="http://static.radio.net/images/broadcasts/43/b2/11085/1/c300.png" group-title="Radio",Pearl Jam Radio
+#EXTVLCOPT:network-caching=1000
+http://radio.nugs.net/pearljam
+#EXTINF:-1 radio="true" tvg-name="Rock Nation" tvg-logo="https://i.iheart.com/v3/re/new_assets/cff882d8-3b36-42ab-b35a-4ad6bc795729?ops=fit(240%2C240)%2Cformat" group-title="Radio",Rock Nation Radio
+https://n18a-e2.revma.ihrhls.com/zc4443/24_6lvmwznqno8w02/main/158467199.aac
+#EXTINF:-1 radio="true" vg-name="UK Heart" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuZOdTSno_omVD8QQ3GsqomZ1fIT9UcX-Ol5D8NYJWl4AQkAlv" group-title="Radio", Radio
+#EXTVLCOPT:network-caching=1000
+http://212.159.23.3:9981/stream/channelid/1999473717
+#EXTINF:-1 radio="true" tvg-name="Absolute Classic Rock" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="Radio",Absolute (Classic Rock) UK Radio
+#EXTVLCOPT:network-caching=1000
+http://212.159.23.3:9981/stream/channelid/1097362855
+#EXTINF:-1 radio="true" tvg-name="Y2K" tvg-logo="http://radio.securenetsystems.net/file_radio/stations_large/DASH19/v5/album-art-default.png" group-title="Radio",DASH - Y2k Radio
+#EXTVLCOPT:network-caching=1000
+http://ice55.securenetsystems.net/DASH19?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="70s" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/highlights/2419/logos/48bb22cd-0970-49d2-8653-136301faef8e.png" group-title="Radio",DASH - 70's Radio
+http://ice55.securenetsystems.net/DASH26?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="80s" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/31/logos/957e6bf2-7337-47d9-86dd-144423eb18e5.png" group-title="Radio",DASH - 80's Radio
+http://ice55.securenetsystems.net/DASH7?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="90s" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/90s.jpg" group-title="Radio",DASH - 90's Radio
+http://ice55.securenetsystems.net/DASH1?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="Alt X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXALT/dash_x_alt_nowplaying_1080.jpg" group-title="Radio",DASH - Alt X Radio
+http://ice55.securenetsystems.net/DASH12?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="church of rock" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/41/logos/23045a34-c70f-49b5-b316-1b3a310461f3.png" group-title="Radio",DASH - Church of Rock Radio
+http://ice55.securenetsystems.net/DASH26?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="Indie" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/DashIndie.jpg" group-title="Radio",DASH - Indie Radio
+http://ice55.securenetsystems.net/DASH32?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="Grunge" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/164/logos/0e64637e-7b29-477e-883b-ae7408d275ee.png" group-title="Radio",DASH - Grunge Radio
+http://ice55.securenetsystems.net/DASH61?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="Monsters of Rock" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/MONSTERSOFROCK/mor_nowplaying_1080.jpg" group-title="Radio",DASH - Monsters of Rock Radio
+http://ice55.securenetsystems.net/DASH14?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="The Strip" tvg-logo="https://s3.amazonaws.com/dashradio-files/now_playing_artwork/TheStrip.jpg" group-title="Radio",DASH - The Strip Radio
+http://ice55.securenetsystems.net/DASH24?cb=1582223223
+#EXTINF:-1 radio="true" tvg-name="RadioParadise" tvg-logo="" group-title="Radio",RadioParadise.com/rock-flac
+http://stream.radioparadise.com/rock-flac
+#EXTINF:-1 radio="true" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129" group-title="Radio",Absolute (Classic Rock) UK Radio
+http://212.159.23.3:9981/stream/channelid/1097362855
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Capital (Classic Rock) UK Radio
+http://212.159.23.3:9981/stream/channelid/1341210659
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Heart UK Radio
+http://212.159.23.3:9981/stream/channelid/1999473717
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Fox News (Radio)
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/logo_m2o_1024x1024.png" group-title="International TV",radio m2o (Radio) [IPTV]
+https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
