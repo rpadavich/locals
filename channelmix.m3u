@@ -47,13 +47,9 @@
 #    Local Over th Air Stations
 #
 ##### channel info follows...
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/spintv.jpg" group-title="Local",[I][B][COLOR darkorange]— Local —[/COLOR][/B][/I]
+#EXTINF:-1 tvg-logo="" group-title="Locals",[I][B][COLOR darkorange]— Local —[/COLOR][/B][/I]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-# #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Local",[I][B][COLOR darkorange]— Antenna —[/COLOR][/B][/I]
-# http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1 tvg-id="I4.1.34832.zap2it.com" tvg-name="4 CBS4 (WFOR) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Network",4 CBS4 (WFOR) Miami
-http://190.80.3.28/CBS/CBS.isml/index.m3u
-#EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF (CBS)
+#EXTINF:0 tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1 WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4 (CBS) WHBF
 http://192.168.1.137:5004/auto/v4.1
 #EXTINF:0 tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2 WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.png" group-title="Local",4.2 KGCW
 http://192.168.1.137:5004/auto/v4.2
@@ -61,9 +57,7 @@ http://192.168.1.137:5004/auto/v4.2
 http://192.168.1.137:5004/auto/v4.3
 #EXTINF:0 tvg-id="I4.4.100637.zap2it.com" tvg-name="4.4 WHBFDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.4.jpg" group-title="Local",4.4 Escape
 http://192.168.1.137:5004/auto/v4.4
-#EXTINF:-1 tvg-id="I6.1.43064.zap2it.com" tvg-name="6 NBC4 (WJTV) NYC" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Network",6 NBC4 (WTVJ) NYC
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:0 tvg-id="I6.1.43064.zap2it.com" tvg-name="6.1 KWQCDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Local",6.1 KWQC (NBC)
+#EXTINF:0 tvg-id="I6.1.43064.zap2it.com" tvg-name="6.1 KWQCDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Local",6 (NBC) KWQC
 http://192.168.1.137:5004/auto/v6.1
 #EXTINF:0 tvg-id="I6.2.43066.zap2it.com" tvg-name="6.2 KWQCDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.2.png" group-title="Local",6.2 ION
 http://192.168.1.137:5004/auto/v6.2
@@ -73,9 +67,7 @@ http://192.168.1.137:5004/auto/v6.3
 http://192.168.1.137:5004/auto/v6.4
 #EXTINF:0 tvg-id="I6.5.110655.zap2it.com" tvg-name="6.5 KWQCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.5.png" group-title="Local",6.5 StartTV
 http://192.168.1.137:5004/auto/v6.5
-#EXTINF:-1 tvg-id="I8.1.30319.zap2it.com" tvg-name="8 ABC10 (WPLG) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Network",8 ABC10 (WPLG) Miami
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:0 tvg-id="I8.1.30319.zap2it.com" tvg-name="8.1 WQADDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Local",8.1 WQAD (ABC)
+#EXTINF:0 tvg-id="I8.1.30319.zap2it.com" tvg-name="8.1 WQADDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Local",8 (ABC) WQAD
 http://192.168.1.137:5004/auto/v8.1
 #EXTINF:0 tvg-id="I8.2.37248.zap2it.com" tvg-name="8.2 WQADDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Local",8.2 Antenna TV
 http://192.168.1.137:5004/auto/v8.2
@@ -83,21 +75,15 @@ http://192.168.1.137:5004/auto/v8.2
 http://192.168.1.137:5004/auto/v8.3
 #EXTINF:0 tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4 WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.jpg" group-title="Local",8.4 Justice
 http://192.168.1.137:5004/auto/v8.4
-#EXTINF:-1 tvg-id="I18.1.33825.zap2it.com" tvg-name="18 FOX5 (WNYW) NYC" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Network",18 FOX5 (WNYW) NYC
-http://190.80.3.28/FOX/FOX.isml/index.m3u
-#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18.1 KLJB (FOX)
+#EXTINF:0 tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1 KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18 (FOX) KLJB
 http://192.168.1.137:5004/auto/v18.1
 #EXTINF:0 tvg-id="I18.2.42919.zap2it.com" tvg-name="18.2 KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.2.png" group-title="Local",18.2 ME TV
 http://192.168.1.137:5004/auto/v18.2
-#EXTINF:-1 tvg-id="I24.1.34723.zap2it.com" tvg-name=" 24 PBS (WPBT) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.1.png" group-title="Local",24 PBS (WPBT) Miami
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1 WQPTDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.1.png" group-title="Local",24.1 PBS
+#EXTINF:0 tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1 WQPTDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.1.png" group-title="Local",24 (PBS) WQPT
 http://192.168.1.137:5004/auto/v24.1
 #EXTINF:0 tvg-id="I24.2.42771.zap2it.com" tvg-name="24.2 WQPTDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.2.png" group-title="Local",24.2 MHz Worldview
 http://192.168.1.137:5004/auto/v24.2
-#EXTINF:-1 tvg-id="I26.1.33828.zap2it.com" tvg-name="26 CW39 (WSFL) Miami" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="Network",CW39 (WFSL) Miami
-http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:0 tvg-id="I26.1.33828.zap2it.com" tvg-name="26.1 KGCWDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.1.png" group-title="Local",26.1 CW
+#EXTINF:0 tvg-id="I26.1.33828.zap2it.com" tvg-name="26.1 KGCWDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.1.png" group-title="Local",26 (CW) KGCW 
 http://192.168.1.137:5004/auto/v26.1
 #EXTINF:0 tvg-id="I26.2.66330.zap2it.com" tvg-name="26.2 KGCWDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.2.jpg" group-title="Local",26.2 THIS
 http://192.168.1.137:5004/auto/v26.2
@@ -105,9 +91,7 @@ http://192.168.1.137:5004/auto/v26.2
 http://192.168.1.137:5004/auto/v26.3
 #EXTINF:0 tvg-id="I26.4.100679.zap2it.com" tvg-name="26.4 KGCWDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.4.jpg" group-title="Local",26.4 BOUNCE
 http://192.168.1.137:5004/auto/v26.4
-#EXTINF:-1 tvg-id="I24.1.34723.zap2it.com" tvg-name="36 PBS (WPBT) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.1.png" group-title="Network",36 PBS (WPBT) Miami
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="I36.1.60352.zap2it.com" tvg-name="36.1 KQINDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.1.png" group-title="Local",36.1 PBS
+#EXTINF:0 tvg-id="I36.1.60352.zap2it.com" tvg-name="36.1 KQINDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.1.png" group-title="Local",36 (PBS) KQIN
 http://192.168.1.137:5004/auto/v36.1
 #EXTINF:0 tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2 KQINDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.2.png" group-title="Local",36.2 PBS Kids
 http://192.168.1.137:5004/auto/v36.2
@@ -117,57 +101,65 @@ http://192.168.1.137:5004/auto/v36.3
 http://192.168.1.137:5004/auto/v36.4
 #### Channels are white color on EPG ##################
 #
-#    Digital Networks 
+#    Networks 
 #
 #######################################################
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/localtv.jpg" group-title="Networks",[I][B][COLOR darkorange]— Networks —[/COLOR][/B][/I]
-http://null
+#EXTINF:-1 tvg-logo="" group-title="Networks",[I][B][COLOR darkorange]— Networks —[/COLOR][/B][/I]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-id="I8.1.30319.zap2it.com" tvg-name="ABC10 (WPLG) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Network",ABC10 (WPLG) Miami
+http://190.80.3.28/ABC/ABC.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="I4.1.34832.zap2it.com" tvg-name="CBS4 (WFOR) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Network",CBS4 (WFOR) Miami
+http://190.80.3.28/CBS/CBS.isml/index.m3u?fluxustv.m3u8
+#EXTINF:-1 tvg-id="I6.1.43064.zap2it.com" tvg-name="NBC4 (WJTV) NYC" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Network",NBC4 (WTVJ) NYC
+http://190.80.3.28/NBC/NBC.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="I18.1.33825.zap2it.com" tvg-name="FOX5 (WNYW) NYC" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Network",FOX5 (WNYW) NYC
+http://190.80.3.28/FOX/FOX.isml/index.m3u?fluxustv.m3u8
+#EXTINF:-1 tvg-id="I26.1.33828.zap2it.com" tvg-name="CW39 (WSFL) Miami" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="Network",CW39 (WFSL) Miami
+http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="I24.1.34723.zap2it.com" tvg-name="PBS2 (WPBT) Miami" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.1.png" group-title="Local",PBS2 (WPBT) Miami
+http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.png" group-title="Entertainment",[COLOR darkgray]ABC [/COLOR]New York
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Entertainment",[COLOR darkgray]CBS [/COLOR]New York
 http://87.120.36.62:8080/hls/streama117999/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Entertainment",[COLOR darkgray]NBC [/COLOR]New York
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Entertainment",[COLOR darkgray]Fox [/COLOR]New York
-http://87.120.36.62:8080/hls/streama118000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LfG3LK1.png" group-title="USA",Charge (New!)
-https://dai.google.com/linear/hls/pa/event/e1QjWFRNSR2YFYGsPbkfgg/stream/ba88de83-551c-4bf6-b5e1-e849d3e1f655:TUL2/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",The CW
-http://87.120.36.62:8080/hls/streama118001/index.m3u8
-#EXTINF:-1,CHARGE!
-https://content-auso4.uplynk.com/channel/37eb732888614810b512fdd82604244e/e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=b0f013848b1e4376a3863f951b93a758
-#EXTINF:-1 group-title="Entertainment",Charge TV
-http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=1397218886&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad._debug=CHARGE_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=93c3cd62408432812d38befe6232467f21a3c5d84216e733bac71bacedd904f6
-#EXTINF:-1 group-title="Entertainment",Comet TV
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VscD1s5.png" group-title="USA",Cozi TV (New!)
-https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UbJ32O4.png"" group-title="USA",CW (WSFL) (EST)
-http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qKWvEGd.png" group-title="USA",getTV (New!)
-https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Entertainment",Antenna TV
-https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
-#EXTINF:-1,COMET
-https://content-ausw2.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/e.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=fb44d173c132477b931b13448816af9b
-#EXTINF:-1,CourtTV
-https://content-ause5.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0/c.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&pbs=1e15ae3bce4c42f59580b6e16123682e
-#EXTINF:-1,Dabl
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
-#EXTINF:-1,LIGHTtv
-https://mgmlight.akamaized.net/hls/live/2009506/mgmlight/hdntl=exp=1581485936~acl=%2f*~data=hdntl~hmac=84efab94de0f2d87fed837316dd61a04f2f624dcfb10ca187e8faf2273394c2f/master_1000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WPLG)
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/HBO-2-Logo.jpg" group-title="Entertainment",ABC
-http://87.120.36.62:8080/hls/streama117998/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ)
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Entertainment",[COLOR darkgray]NBC [/COLOR]New York
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Entertainment",[COLOR darkgray]Fox [/COLOR]New York
+http://87.120.36.62:8080/hls/streama118000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Entertainment",Antenna TV
+https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LfG3LK1.png" group-title="USA",Charge!
+https://dai.google.com/linear/hls/pa/event/e1QjWFRNSR2YFYGsPbkfgg/stream/ba88de83-551c-4bf6-b5e1-e849d3e1f655:TUL2/master.m3u8
+#EXTINF:-1 group-title="Entertainment",Charge!
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=1397218886&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad._debug=CHARGE_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=93c3cd62408432812d38befe6232467f21a3c5d84216e733bac71bacedd904f6
+#EXTINF:-1,CHARGE!
+https://content-auso4.uplynk.com/channel/37eb732888614810b512fdd82604244e/e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=b0f013848b1e4376a3863f951b93a758
+#EXTINF:-1,Comet
+https://content-ausw2.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/e.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=fb44d173c132477b931b13448816af9b
+#EXTINF:-1 group-title="Entertainment",Comet TV
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1,CourtTV
+https://content-ause5.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0/c.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&pbs=1e15ae3bce4c42f59580b6e16123682e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VscD1s5.png" group-title="USA",Cozi TV
+https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CW
+http://87.120.36.62:8080/hls/streama118001/index.m3u8
+#EXTINF:-1,Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKWvEGd.png" group-title="USA",getTV (New!)
+https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1,LIGHTtv
+https://mgmlight.akamaized.net/hls/live/2009506/mgmlight/hdntl=exp=1581485936~acl=%2f*~data=hdntl~hmac=84efab94de0f2d87fed837316dd61a04f2f624dcfb10ca187e8faf2273394c2f/master_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WPLG)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #### Channels are gray color on EPG ###################
 #
 #    Entertainment Channels
